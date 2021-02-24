@@ -1,7 +1,7 @@
 ﻿using Artemis.Core.DataModelExpansions;
 using System.Collections.Generic;
 
-namespace SystemTheme.DataModels
+namespace WindowsTheme.DataModels
 {
     public class ThemeDataModel : DataModel
     {

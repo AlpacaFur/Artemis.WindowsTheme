@@ -1,10 +1,10 @@
 ﻿using Artemis.Core.DataModelExpansions;
 using System;
-using SystemTheme.DataModels;
+using WindowsTheme.DataModels;
 using System.Management;
 using Microsoft.Win32;
 
-namespace SystemTheme
+namespace WindowsTheme
 {
     public class ThemeDataModelExpansion : DataModelExpansion<ThemeDataModel>
     {
