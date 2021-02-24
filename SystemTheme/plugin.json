@@ -1,0 +1,8 @@
+{
+  "Guid": "aae723d5-335c-4eb6-9ccb-a41f14f1ad7d",
+  "Name": "Windows Theme",
+  "Description": "A plugin to add windows theme data bindings.",
+  "Icon": "Brightness6",
+  "Version": "1.0.0.0",
+  "Main": "SystemTheme.dll"
+}
